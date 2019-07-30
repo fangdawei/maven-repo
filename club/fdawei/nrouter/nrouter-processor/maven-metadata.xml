@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>club.fdawei.nrouter</groupId>
+  <artifactId>nrouter-processor</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190730105246</lastUpdated>
+  </versioning>
+</metadata>
